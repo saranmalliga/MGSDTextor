@@ -1,0 +1,20 @@
+{
+	"name": "MGSD Textor",
+	"version": "0.0.0.3",
+	"manifest_version": 3,
+	"description": "An extension to read the text from images, window screens",
+	"icons": {
+		"16": "img/ai_img_read_16.png",
+		"32": "img/ai_img_read_32.png",
+		"48": "img/ai_img_read_48.png",
+		"128": "img/ai_img_read_128.png"
+	},
+	"action": {
+		"default_popup": "popup/popup.html"
+	},
+	"permissions": [
+		"activeTab",
+		"desktopCapture"
+	],
+	"optional_host_permissions": [ "http://localhost:3000/*" ]
+}
