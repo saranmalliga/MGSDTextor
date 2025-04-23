@@ -1,4 +1,4 @@
 {
 	"key": "5sSBaIpTWZNQUWaaUMkn64oKdXL8vB2E5ZMGLQsF07uUJfG4dY16JQQJ99BAACF24PCXJ3w3AAAFACOGwhiM",
-	"cvurl": "https://mgsdl2ocr2025.cognitiveservices.azure.com/computervision/imageanalysis:analyze?api-version=2023-10-01&"
+	"cvurl": "https://mgsdl2ocr2025.cognitiveservices.azure.com/computervision/imageanalysis:analyze?features=read&model-version=latest&language=en&gender-neutral-caption=false&api-version=2023-10-01&"
 }
