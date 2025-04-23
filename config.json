@@ -1,4 +1,5 @@
 {
 	"subdomain": "mgopsocr",
-	"key": "4i0YmNwsI39Fy82aPxPpVNnG2Lw54Pkh0TdAxfrpQyyKBGa0QRfkJQQJ99BDACF24PCXJ3w3AAAFACOGJBPc"
+	"key": "4i0YmNwsI39Fy82aPxPpVNnG2Lw54Pkh0TdAxfrpQyyKBGa0QRfkJQQJ99BDACF24PCXJ3w3AAAFACOGJBPc",
+	"cvurl": "https://__subdomain__.cognitiveservices.azure.com/computervision/imageanalysis:analyze?api-version=2023-04-01-preview&",
 }
